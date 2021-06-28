@@ -48,7 +48,8 @@ public class Main {
         }
         public static void clock() {
             LocalDateTime now = LocalDateTime.now();
-            DateTimeFormatter format = DateTimeFormatter.ofPattern("HH:mm:ss");       String beforeFormat = now.format(format);
+            DateTimeFormatter format = DateTimeFormatter.ofPattern("HH:mm:ss");
+            String beforeFormat = now.format(format);
                     System.out.println(beforeFormat);
 
             while (true) {
