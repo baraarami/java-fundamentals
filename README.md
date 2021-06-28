@@ -1,6 +1,5 @@
 # java-fundamentals
-# lab01 code [Java primitives and control flow
-](https://github.com/baraarami/java-fundamentals/blob/lab-1/basics/Main.java)
+# lab01 code [Java primitives and control flow](https://github.com/baraarami/java-fundamentals/blob/lab-1/basics/Main.java)
 1) clock Method .
 2) flipNHead method .
 3) plurizal method .
