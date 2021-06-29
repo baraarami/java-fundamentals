@@ -11,3 +11,7 @@
 2) duplicates for Contains Duplicates
 3) avg for Calculating Averages
 4) lowestAverage for Array of arrays
+
+# lab03 code [Maps and File I/O](https://github.com/baraarami/java-fundamentals/blob/lab-3/linter/app/src/main/java/maps/App.java)
+it's contain these method:
+1)Analyzing Weather Data
