@@ -12,7 +12,7 @@ public class Main {
         int turtleCount = 0;
         System.out.println("I own " + turtleCount + " " + pluralize("turtle", turtleCount) + ".");
 
-                flipNHeads(2);
+                flipNHeads(3);
             clock();
 
     }
@@ -34,7 +34,7 @@ public class Main {
             int headTry = 0;
             int flipsTry = 0;
 
-            while (headTry < n) {
+            while (headTry > n) {
                 if (number >= .5) {
                     System.out.println("heads");
                     headTry++;
@@ -44,7 +44,7 @@ public class Main {
                 flipsTry++;
                 number = random.nextDouble();
             }
-            System.out.println("It took" + flipsTry + "flips to flip " + n+ " head in a row.");
+            System.out.println("It took" +  " " + flipsTry + "flips to flip " + n+ " head in a row.");
         }
         public static void clock() {
             LocalDateTime now = LocalDateTime.now();
