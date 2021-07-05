@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06100d81-b56a-41b6-8c91-364dc7e16eac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../inheritance/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/bin/main/inheritance/Restaurant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/bin/main/inheritance/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/bin/main/inheritance/ReviewInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/bin/test/inheritance/PriceCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/bin/test/inheritance/RestaurantTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/src/main/java/inheritance/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/src/main/java/inheritance/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/src/main/java/inheritance/ReviewInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/src/test/java/inheritance/PriceCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/lib/src/test/java/inheritance/RestaurantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basics/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1utRQ7Uxl4rULgsGtZMfOcBmM6A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basics" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06100d81-b56a-41b6-8c91-364dc7e16eac" name="Default Changelist" comment="" />
+      <created>1625482880034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625482880034</updated>
+      <workItem from="1625482881403" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
